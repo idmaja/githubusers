@@ -18,7 +18,7 @@ class ApiConfig {
                 .addInterceptor {
                     it.proceed(
                         it.request().newBuilder()
-                            .addHeader("Authorization", "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").build()
+                            .addHeader("Authorization", "your_api_key").build()
                     )
                 }
                 .build()
