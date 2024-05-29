@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyGithubUserFundamental</string>
+    <string name="searchbar_hint">Search here...</string>
+    <string name="users_name">Username</string>
+    <string name="following_detail">%d Following</string>
+    <string name="followers_detail">%d Followers</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="no_search">Results not found</string>
+    <string name="clear_search">Clear</string>
+    <string name="no_following">No Following</string>
+    <string name="name">Name</string>
+    <string name="time_splash">2000</string>
+    <string name="logo_desc">Github Logo</string>
+    <string name="favorite_user">Favorite User\n</string>
+    <string name="actionbar_favorite">Favorite</string>
+    <string name="actionbar_setting">Setting\n</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_users_empty"><![CDATA[Let\'s add your favorites >.<]]></string>
+</resources>
